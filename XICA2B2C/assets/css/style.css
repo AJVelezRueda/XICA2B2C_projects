@@ -1089,12 +1089,10 @@ h6 {
 }
 
 .white-row {
-    margin-left: 5%;
+    margin-left: 0;
+    margin-top: 1%;
+    margin-bottom: 1%;
     text-align: center;
-}
-
-.white-row h2 {
-    margin-left: -166px;
 }
 
 .perfiles {
